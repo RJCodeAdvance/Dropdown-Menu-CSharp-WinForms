@@ -29,7 +29,7 @@ namespace CustomControls.RJControls
         }
 
         //Properties
-        //Optionally, hide the properties in the toolbox to avoid the hassle of displaying and/or 
+        //Optionally, hide the properties in the toolbox to avoid the problem of displaying and/or 
         //saving control property changes in the designer at design time in Visual Studio.
         //If the problem I mention does not occur you can expose the properties and manipulate them from the toolbox.
         [Browsable(false)]
